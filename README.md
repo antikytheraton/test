@@ -44,7 +44,8 @@
     * Usando el metodo reverse del objeto lista o usando 
     ```python
     L = list(1,2,3,4,5,6)
-    print(L.reverse())
+    L.reverse()
+    print(L)
     print(L[::-1])
     ```
 

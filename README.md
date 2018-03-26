@@ -43,7 +43,8 @@
 * ¿Como inviertes el orden de una lista?
     * Usando el metodo reverse del objeto lista o usando 
     ```python
-    L = lisy(1,2,3,4,5,6)
+    L = list(1,2,3,4,5,6)
+    print(L.reverse())
     print(L[::-1])
     ```
 
